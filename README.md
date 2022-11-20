@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img src = "https://github-readme-stats.vercel.app/api?username=rishavk1102" >
+<img src = "https://activity-graph.herokuapp.com/graph?username=rishavk1102&theme=react-dark&color=fff&bg_color=050f2c" >
